@@ -1,6 +1,6 @@
-name: null
+name: mary
 favicon: null
-layout_spectrum: 0.2537564761005342
+layout_spectrum: 0.24659
 typography_spectrum: 0.8384307343512774
 cta:
   domain: null
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.6458957027643919
+  brandStrength: 0.625
   lightness: 0.0927686661016196
   saturation: 0.662383277900517
   rhythmicContrast: 0.36312990239821374
